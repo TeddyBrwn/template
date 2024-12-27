@@ -1,4 +1,4 @@
-Template React + Node JS ✨
+Template React + Node JS ✨ <br>
 It's MERN (MongoDB, Express, React, Node JS) <br>
 
 How to use it ? <br>
