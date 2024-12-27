@@ -1,5 +1,5 @@
 Template React + Node JS ✨
-It's MERN (MongoDB, Express, React, Node JS)
+It's MERN (MongoDB, Express, React, Node JS) <br>
 
 How to use it ? <br>
 Step 1: clone template from Github 🚀 <br>
